@@ -15,7 +15,7 @@ A simple and responsive React-based Movie Search application where users can sea
 
 ## 🚀 Live Demo  
 
-[Live Demo Link Here](https://fathima-sameerah.github.io/Movie-Search-App/)  
+[Link Here](https://fathima-sameerah.github.io/Movie-Search-App/)  
 
 
 ---
@@ -24,7 +24,7 @@ A simple and responsive React-based Movie Search application where users can sea
 
 
 ## Author
-(https://github.com/Fathima-Sameerah)
+[Fathima Sameerah](https://github.com/Fathima-Sameerah)
 
 
 
@@ -44,15 +44,10 @@ A simple and responsive React-based Movie Search application where users can sea
 4. View posters and titles for each movie.  
 ---
 
-### Desktop  
-![Desktop View](#)  
-Add a screenshot of the app running on desktop.
-
 
 ### Mobile  
-![Mobile View](![Uploading image.png…]()
-)  
-Add a screenshot of the app running on mobile.
+![image](https://github.com/user-attachments/assets/e9992ae3-36f1-46e7-aae1-b6d9a694534c)
+
 
 
 ## ✨ Acknowledgements  
