@@ -45,7 +45,7 @@ A simple and responsive React-based Movie Search application where users can sea
 ---
 
 
-### Mobile  
+###  🚀 Mobile View
 ![image](https://github.com/user-attachments/assets/e9992ae3-36f1-46e7-aae1-b6d9a694534c)
 
 
@@ -56,7 +56,3 @@ A simple and responsive React-based Movie Search application where users can sea
 - React.js and Vite for fast app development.  
 
 ---
-
-
-
-Let me know if you'd like to add or modify anything in this markdown! 🚀
